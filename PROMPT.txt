@@ -1,0 +1,29 @@
+
+PROMPT - NetInstallPro (Versión Estudiante Universitario)
+
+La aplicación se llama NetInstallPro y su propósito es facilitar la contratación de servicios de instalación y mantenimiento de redes de computadoras. 
+Fue creada usando Glide, una herramienta no-code que permite desarrollar apps móviles conectadas a Google Sheets.
+
+El objetivo de la app es conectar a dos tipos de usuarios:
+1. Clientes que necesitan instalar o dar mantenimiento a su red.
+2. Técnicos especializados que ofrecen el servicio.
+
+La app permite que el cliente se registre o inicie sesión mediante un código OTP (sin contraseña) y pueda llenar un formulario para solicitar una instalación.
+Luego, el sistema genera una cotización automática según los datos ingresados (tipo de red, tamaño del área, número de dispositivos, materiales y mano de obra).
+El cliente puede aceptar la cotización, realizar el pago y agendar la visita técnica. 
+También puede contratar un plan de mantenimiento mensual (Basic, Pro o Premium).
+
+Los técnicos pueden ver los trabajos asignados, actualizar el estado del servicio y comunicarse con el cliente mediante un chat interno.
+El administrador puede ver todas las solicitudes, asignar técnicos y revisar las métricas del sistema (número de servicios, ingresos, etc.).
+
+FUNCIONALIDAD DE INTELIGENCIA ARTIFICIAL:
+La app incluye una función de IA que analiza la información ingresada por el cliente (tipo de negocio, cantidad de computadoras, tamaño del área y presupuesto)
+para recomendar automáticamente el tipo de instalación más adecuado (básica, empresarial o avanzada) y el plan de mantenimiento más conveniente (Basic, Pro o Premium).
+La IA también genera una breve explicación en lenguaje sencillo, ayudando al cliente a entender por qué esa opción es la más adecuada para su caso.
+
+EJEMPLO DE RESPUESTA DE IA:
+“Según la información del cliente, se recomienda una instalación empresarial con cableado estructurado y router de doble banda. 
+Además, se sugiere el plan Pro de mantenimiento para garantizar conexión estable y soporte técnico mensual.”
+
+En resumen, NetInstallPro centraliza todo el proceso de instalación, cotización, pago, soporte y mantenimiento de redes informáticas, 
+integrando funciones de inteligencia artificial dentro de una app no-code accesible y moderna.
